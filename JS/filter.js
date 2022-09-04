@@ -34,3 +34,4 @@ const expensive = products.filter(product => product.price > 30000);
 
 const cheap = products.find(product => product.price < 40000);  // Uses of find
 //console.log(cheap);
+
